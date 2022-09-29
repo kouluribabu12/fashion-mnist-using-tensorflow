@@ -1,2 +1,2 @@
-# fashion-mnist-using-tensorflow-
+# fashion-mnist-using-tensorflow
 Fashion mnist dataset
